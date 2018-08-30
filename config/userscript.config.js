@@ -1,4 +1,3 @@
-const webpack = require("webpack");
 const WrapperPlugin = require('wrapper-webpack-plugin');
 const package = require('../package.json');
 const merge = require('webpack-merge');

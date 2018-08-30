@@ -5,6 +5,7 @@
   "version": "0.13.1",
   "author": {
     "name": "Jeppe Rune Mortensen",
+    "url": "https://github.com/YePpHa",
     "email": "jepperm@gmail.com"
   },
   "contributors": [
@@ -74,7 +75,7 @@
     "@types/greasemonkey": "^0.0.28",
     "@types/hls.js": "^0.10.1",
     "@types/lodash": "^4.14.78",
-    "@types/node": "^10.5.2",
+    "@types/node": "^10.9.4",
     "@types/url-parse": "^1.1.0",
     "archiver": "^3.0.0",
     "cssnano": "^4.0.2",
