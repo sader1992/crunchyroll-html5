@@ -57,13 +57,7 @@ const generateManifest = () => {
     ],
     'permissions': [
       "storage",
-      "*://www.crunchyroll.com/*",
-
-      // Allow the player to access these sites as otherwise it will have some
-      // trouble loading the video.
-      "*://*.vrv.co/*",
-      "*://*.dlvr1.net/*",
-      "*://*.akamaized.net/*"
+      "*://www.crunchyroll.com/*"
     ]
   }, null, 2);
 };
