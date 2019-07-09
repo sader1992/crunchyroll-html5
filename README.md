@@ -3,7 +3,7 @@
 2. Turn on 'Developer mode' in the Chrome extension page
 3. Click 'Load unpacked' and select the unzipped folder
 
-This repository is available only as an archive and will not be maintained
+This repository is available only as an archive and will not be maintained  
 Below is the original README.md
 
 # HTML5 player for Crunchyroll
