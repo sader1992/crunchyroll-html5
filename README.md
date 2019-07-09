@@ -1,3 +1,10 @@
+# Installation
+1. Download and unzip 'extension_0_14_4_0.zip'
+2. Turn on 'Developer mode' in the Chrome extension page
+3. Click 'Load unpacked' and select the unzipped folder
+
+Below is the original README.md
+
 # HTML5 player for Crunchyroll
 
 [![Latest release](https://img.shields.io/github/release/YePpHa/crunchyroll-html5/all.svg)](https://github.com/YePpHa/crunchyroll-html5/releases/latest) [![Greenkeeper badge](https://badges.greenkeeper.io/YePpHa/crunchyroll-html5.svg)](https://greenkeeper.io/)
